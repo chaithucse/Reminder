@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138324545588",
+    "project_id": "reminder-7ef1d",
+    "storage_bucket": "reminder-7ef1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138324545588:android:eda148e197aaee7099fa61",
+        "android_client_info": {
+          "package_name": "com.techchai.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138324545588-v8tjl0lfbc10kn4lf5sjvbqdampe36bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZ4v30RlDmzwt3TdrpKAn-v1AJTTG764"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138324545588-v8tjl0lfbc10kn4lf5sjvbqdampe36bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
