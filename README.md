@@ -3,7 +3,7 @@
 # Reminder
 Reminder application 
 
-# Built With
+# Using Components
   - [MVVM Architecture](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
   - [Kotlin](https://kotlinlang.org/)
   - [Jetpack Compose](https://developer.android.com/jetpack/compose)
