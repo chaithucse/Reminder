@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Reminders"
+include ':app'
+include ':feature:tasklist'
+include ':feature:taskcreate'
+include ':feature:taskUpdate'
+include ':feature:greetings'
+include ':feature:settings'
+include ':core:ui'
+include ':core:data'
+include ':core:database'
+include ':core:domain'
+include ':core:Alarm'
+include ':core:common'
